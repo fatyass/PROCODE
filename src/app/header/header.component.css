@@ -1,0 +1,14 @@
+.logo {
+    width: 85px;
+
+}
+.header-right {
+    margin-left: 550px;
+    color: rgb(255, 255, 255);
+}
+.header-right :hover{
+    color: rgb(158, 236, 247);
+}
+.active {
+    font-weight: bold;
+    }
